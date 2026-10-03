@@ -2,13 +2,19 @@
 
 > **Read-only archive of released versions of xypp/sticky-card.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/sticky-card) or the [upstream repository](https://github.com/zxy19/flarum-sticky-card).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
+**7** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-07-09 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-07-10 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.0.1) |
+| `v1.0.2` | 2024-07-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.0.2) |
+| `v1.0.3` | 2024-07-11 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.0.3) |
+| `v1.0.4` | 2024-07-13 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.0.4) |
+| `v1.0.5` | 2024-08-03 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.0.5) |
+| `v1.1.0` | 2024-10-08 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-sticky-card/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/xypp-sticky-card.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-sticky-card.json)
 
